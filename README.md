@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola 🙃
 
-<!--
-**kosyfakicse/kosyfakicse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Chrysanthi (but my friends call me Sunny)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently a postdoctoral researcher at HKUST in the Department of Computer Science and Engineering.
+
+I’m interested in how information flows through large graphs, with a particular focus on Temporal Interaction Networks (TINs). I’m also really into data provenance, especially the temporal side of it and I’m exploring how to store provenance data efficiently (yes, how you store your data when you care about provenance really does matter for building efficient solutions… trust me on this one ;)). Overall, I like working on practical, efficient ways to bring these ideas into database and streaming systems :)
+
+If you’re curious, feel free to check out my latest work:
+https://arxiv.org/pdf/2601.04722
+
+You can also check my personal webpage for more details: https://kosyfakicse.github.io
+
